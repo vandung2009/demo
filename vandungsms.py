@@ -47,6 +47,7 @@ banner = """\033[1;31m
 \033[38;5;78mT\033[38;5;160mO\033[38;5;27mO\033[38;5;11mL\033[38;5;94mS\033[38;5;14mP\033[38;5;201mA\033[38;5;120mM\033[38;5;6mS\033[38;5;198mM\033[38;5;220mS\033')
 \033[38;5;9m A\033[38;5;5mD\033[38;5;11mM\033[38;5;27mI\033[38;5;47mN:\033[1;32m  xyzvandung vô danh
 \033[1;37m FACEBOOK:\033[1;32m  Nguyễn Văn Dững(xyzvandung)
+\033[1;37m TELEGRAM:\033[1;32m  t.me/xyzvandung
 \033[1;32m=======================================================================
 """
 for h in banner:
@@ -63,7 +64,7 @@ d=now.strftime("%d-%m")
 ngay=int(strftime('%d'))
 #encodedBytes = base64.b64encode(d.encode("utf-8"))
 #key = str(encodedBytes, "utf-8")
-key='heattool'
+key='bc1pz9jma2tac9xujl5mqpdvnhpqt4rjgywt83vn4s59wvsryqv739ws4yhgh6'
 #long_url=(f"https://keyvip24h.net/giaodien/key.php?key={key}")
 
 
@@ -74,7 +75,7 @@ file_key_cu=f'key_ngay{ngay_trc}.txt'
 check_file_key=os.path.exists(file_key)
 if check_file_key == False:
    print(f"{mquang}{luc}ĐÂY LÀ TOOL FREE NÊN KEY SẼ KHÔNG THAY ĐỔI !!")
-   print(f'{mquang}{luc}LINK KEY DƯỚI PHẦN MÔ TẢ CỦA VIDEO')
+   print(f'{mquang}{luc}liên hệ xyzvandung để lấy key')
    print(f'{trang}-----------------------------------------------------------------')
    print(f'\033[1;36m╔════════════════════════╗')
    print(f'\033[1;36m║\033[1;33mNhập Key  \033[1;37m{today}\033[1;36m║')
